@@ -1,7 +1,7 @@
 WebSocket-based Eclipse Aether listeners.
 ==
 
-This library adds WebSocket support to some Eclipse Aether listeners. 
+This library adds WebSocket support to some Eclipse Aether listeners
 
 Implemented listeners:
 - RepositoryListener
